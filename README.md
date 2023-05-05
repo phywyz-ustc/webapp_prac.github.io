@@ -5,7 +5,7 @@ https://phywyz-ustc.github.io/webapp_prac.github.io/
 [Repo](https://github.com/phywyz-ustc/webapp.prac.github.io/):\
 https://github.com/phywyz-ustc/webapp_prac.github.io/
 \
-This is a very simple calculater app written in Python and HTML.\
+This is a very simple calculator app written in Python and HTML.\
 ![avatar1](https://github.com/phywyz-ustc/webapp_prac.github.io/blob/main/images/ind.bmp)
 \
 ![avatar2](https://github.com/phywyz-ustc/webapp_prac.github.io/blob/main/images/res.bmp)
