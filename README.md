@@ -1,8 +1,8 @@
 # webapp_prac.github.io
-[Home](https://phywyz-ustc.github.io/webapp.prac.github.io/):\
+[Home](https://phywyz-ustc.github.io/webapp.prac.github.io):\
 https://phywyz-ustc.github.io/webapp_prac.github.io/
 \
-[Repo](https://github.com/phywyz-ustc/webapp.prac.github.io/):\
+[Repo](https://github.com/phywyz-ustc/webapp.prac.github.io):\
 https://github.com/phywyz-ustc/webapp_prac.github.io/
 \
 This is a very simple calculator app written in Python and HTML.\
